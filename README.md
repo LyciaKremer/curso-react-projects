@@ -1,2 +1,2 @@
-# EstudoReactJs
+# Estudo ReactJs
 Repositório criado para compactar o conhecimento adquirido no Curso de React.Js
